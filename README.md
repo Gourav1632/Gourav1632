@@ -14,6 +14,6 @@ I'm a passionate and curious developer who enjoys working on **full-stack web ap
 🎮 **Game Development** | 🎨 **UI/UX Design** | 📖 **Reading** | 🖌️ **Sketching**  
 
 📫 **Get in touch!**  
-- Connect on **[LinkedIn](#)**  
-- Check out my **[Portfolio](#)**  
+- Connect on **[LinkedIn](https://www.linkedin.com/in/gourav-kumar-4230b7286/)**  
+- Check out my **[Portfolio](https://gouravkumar.netlify.app/)**  
 
